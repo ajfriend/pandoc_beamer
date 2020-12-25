@@ -1,19 +1,12 @@
 ---
-title: "My wonderful presentation"
-author: "Alexey Gumirov"
-institute: "My home office"
-topic: "Pandoc how-to"
-theme: "Frankfurt"
-colortheme: "beaver"
-fonttheme: "professionalfonts"
-mainfont: "Hack Nerd Font"
-fontsize: 10pt
-urlcolor: red
-linkstyle: bold
+title: My wonderful presentation
+author:
+    - AJ Friend
+    - Art Friend
+institute: Uber Delivery CAS
 aspectratio: 169
-date:
+date: 2020-10-01
 section-titles: false
-toc: true
 ---
 
 
@@ -21,10 +14,25 @@ toc: true
 
 ## maybe this is a slide
 
-this is some text
+this is some text...
+
+and do i get some--dashes? eh---huh?
+
+### maybe this is a section?
 
 # this is another slide
 
 ## eh?
 
 who knows!
+
+$$
+\sum_{i=1}^n x^i
+$$
+
+## what about this?
+
+```python
+def foo(x):
+    return x+1
+```
