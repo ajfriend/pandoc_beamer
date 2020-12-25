@@ -6,3 +6,9 @@ https://tex.stackexchange.com/questions/485138/how-to-customize-table-of-content
 
 
 https://maehr.github.io/academic-pandoc-template/markdown.html
+
+https://tug.org/FontCatalogue/
+https://tex.stackexchange.com/questions/234786/how-to-set-a-font-family-with-pandoc
+
+opensans
+leto

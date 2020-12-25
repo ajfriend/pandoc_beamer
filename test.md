@@ -8,6 +8,10 @@ aspectratio: 169
 date: 2020-10-01
 section-titles: true
 geometry: "left=1.5cm,right=1.5cm,top=.3cm,bottom=.3cm"
+fontfamily: opensans
+fontfamilyoptions: 
+- default
+- defaultsans
 ---
 
 \tableofcontents
