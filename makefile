@@ -1,7 +1,7 @@
 
 
 prez: clean
-	pandoc --defaults defaults.yaml test.md -o test.pdf
+	pandoc --defaults defaults.yaml -H header.incl test.md -o test.pdf
 
 clean:
 	$(RM) *.pdf

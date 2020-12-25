@@ -10,5 +10,12 @@ https://maehr.github.io/academic-pandoc-template/markdown.html
 https://tug.org/FontCatalogue/
 https://tex.stackexchange.com/questions/234786/how-to-set-a-font-family-with-pandoc
 
-opensans
-leto
+fonts that work for me:
+- opensans
+- leto
+
+## todo
+
+- how best to break up prez into smaller files? (for partial compilation?)
+- page numbers
+- TOC page title

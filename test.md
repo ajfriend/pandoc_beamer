@@ -16,9 +16,9 @@ fontfamilyoptions:
 
 \tableofcontents
 
-# this is a presentation
+# This is a presentation
 
-## maybe this is a slide
+## Maybe this is a slide
 
 this is some text...
 
@@ -30,11 +30,11 @@ this is a list
 - two
 - three
 
-### maybe this is a section?
+### Maybe this is a section?
 
-# this is another slide
+# This is another slide
 
-## eh?
+## Eh?
 
 who knows!
 
@@ -42,7 +42,7 @@ $$
 \sum_{i=1}^n x^i
 $$
 
-## what about this?
+## What about this?
 
 ```python
 def foo(x):
