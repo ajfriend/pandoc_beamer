@@ -48,3 +48,20 @@ $$
 def foo(x):
     return x+1
 ```
+
+## try out columns
+
+::: columns
+
+:::: column
+Left column text.
+Another text line.
+::::
+
+:::: column
+- Item 1.
+- Item 2.
+- Item 3.
+::::
+
+:::
