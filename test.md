@@ -6,9 +6,11 @@ author:
 institute: Uber Delivery CAS
 aspectratio: 169
 date: 2020-10-01
-section-titles: false
+section-titles: true
+geometry: "left=1.5cm,right=1.5cm,top=.3cm,bottom=.3cm"
 ---
 
+\tableofcontents
 
 # this is a presentation
 
@@ -17,6 +19,12 @@ section-titles: false
 this is some text...
 
 and do i get some--dashes? eh---huh?
+
+this is a list
+
+- one
+- two
+- three
 
 ### maybe this is a section?
 

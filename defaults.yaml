@@ -4,4 +4,3 @@ standalone: true
 slide-level: 2
 listings: false
 dpi: 300
-table-of-contents: true
